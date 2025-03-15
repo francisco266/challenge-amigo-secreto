@@ -8,8 +8,8 @@
 
   Funcion 2: ActualizaLista. Si el valor ingresado al campo es valido (evaluado en la funcion 1) el nombre se ingresara a la lista mediante el clic en el boton anadir y se mostrara bajo el campo de texto. A medida que se ingresen nombres validos se iran mostrando uno sobre el otro en forma de columna
 
-
+![Image](https://github.com/user-attachments/assets/aef5e9d4-c0b9-4032-87df-62a46921e912)
 
   Funcion 3: SortearAmigo Esta funcion escoge aleatoriamente un numero entre 0 y la longitud de la lista ingresada y mostrara sobre el boton sortear amigo el mensaje "El amigo secreto sorteado es: niombre". la funcion es llamada con el clic en el boton
 
-![Image](https://github.com/user-attachments/assets/6c1b134c-9fa7-4189-802a-233e33c02cb4)
+
