@@ -4,3 +4,4 @@
   ###Descripcion de funcionalidades
   Funcion 1: Agregar amigo. La funcion toma el valor ingresado al campo de texto y lo evalua. Si es valido lo empuja a una lista y llama a la funcion 2, si no es valido se muestra una alerta que  dice que "se debe ingresar un nombre"
   
+![Image](https://github.com/user-attachments/assets/6c1b134c-9fa7-4189-802a-233e33c02cb4)
