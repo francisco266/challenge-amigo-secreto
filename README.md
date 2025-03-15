@@ -11,5 +11,5 @@
 ![Image](https://github.com/user-attachments/assets/aef5e9d4-c0b9-4032-87df-62a46921e912)
 
   Funcion 3: SortearAmigo Esta funcion escoge aleatoriamente un numero entre 0 y la longitud de la lista ingresada y mostrara sobre el boton sortear amigo el mensaje "El amigo secreto sorteado es: niombre". la funcion es llamada con el clic en el boton
-
+![Image](https://github.com/user-attachments/assets/828306b8-08d8-40cd-8624-cf8eb323b936)
 
