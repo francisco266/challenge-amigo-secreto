@@ -7,3 +7,5 @@
 ![Image](https://github.com/user-attachments/assets/6c1b134c-9fa7-4189-802a-233e33c02cb4)
 
 funcion 2: Si el valor ingresado al campo valido (evaluado en la funcion 1) el nombre se mostrara bajo el campo de texto y a medida que se ingresen nombres validos se iran mostrando uno sobre el otro en forma de columna
+
+![Image](https://github.com/user-attachments/assets/6c1b134c-9fa7-4189-802a-233e33c02cb4)
